@@ -1,0 +1,71 @@
+.common{
+    position:absolute;
+    color:whitesmoke;
+
+}
+.header{
+    color:black;
+    font-style:italic;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    z-index: 2;
+
+}
+
+
+.sub-header{
+    float:left;
+    
+}
+
+.body{
+    font-style: oblique;
+    z-index:1;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    padding-right: 90%;
+    background-image: url(https://images.unsplash.com/photo-1616712134411-6b6ae89bc3ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80);
+    -webkit-backgroung-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+
+.tab {
+    position: absolute;
+    background-image: url(https://images.unsplash.com/photo-1616712134411-6b6ae89bc3ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80);
+    -webkit-backgroung-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+
+
+
+
+.footer{
+    z-index: 1;
+    padding-top: 5%;
+}
+
+ul{
+    font-size: 15px;
+    font-weight: 100;
+}
+
+ol{
+    font-weight: bold;
+}
+
+p{
+    font-variant: small-caps;
+    font-size:x-large;
+}
+
+    
+
+a:visited{
+    color:rgb(217, 160, 86);
+
+}
+
